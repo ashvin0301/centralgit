@@ -1,2 +1,3 @@
+tt = "python one"
+print ("here my code "+ tt)
 
-print ("here my code")
